@@ -104,7 +104,7 @@ openjdk-17-source/now 17.0.8.1+1~us1-0ubuntu1~22.04 all [installed,upgradable to
 на рисунке 1. 
 
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F_%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C_%28Shared_Memory%29.png">]("Разделенная память")
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F_%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C_%28Shared_Memory%29.png">
 <p align=center>Рисунок 1 - Визуальная репрезентация разделенной памяти.</p>
 
 Несмотря на то, что тема данного экзамена - это операционные системы, где главенствуют С языки должен отметить, что данный 
